@@ -1,4 +1,4 @@
 # Side Hustle Internship
 
 ##Hosted Link
-[Live Preview]()
+[Live Preview](https://abiodunvlad.github.io/Color-Flipper/)
